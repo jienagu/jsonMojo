@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+jsonMojo/__init__.py
+jsonMojo/tidy_dict.py
+jsonMojo.egg-info/PKG-INFO
+jsonMojo.egg-info/SOURCES.txt
+jsonMojo.egg-info/dependency_links.txt
+jsonMojo.egg-info/top_level.txt
