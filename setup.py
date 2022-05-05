@@ -3,7 +3,7 @@ import pathlib
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 PACKAGE_NAME = 'jsonMojo'
 AUTHOR = 'Jiena Gu McLellan'
 AUTHOR_EMAIL = 'jienagu90@gmail.com'
@@ -13,7 +13,7 @@ DESCRIPTION = 'A series of utility functions to help with tidy json via python d
 LONG_DESCRIPTION = (HERE / "README.md").read_text()
 LONG_DESC_TYPE = "text/markdown"
 
-INSTALL_REQUIRES = ['json']
+INSTALL_REQUIRES = []
 
 setup(name=PACKAGE_NAME,
       version=VERSION,
