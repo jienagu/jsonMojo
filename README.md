@@ -2,7 +2,7 @@
 A series of utility functions to help with tidy json via python dictionary.
 
 ## Installation from github
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install jsonMojo.
 
 ## features
 
