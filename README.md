@@ -4,6 +4,10 @@ A series of utility functions to help with tidy json via python dictionary.
 ## Installation from github
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install jsonMojo.
 
+```
+pip install jsonMojo
+```
+
 ## features
 
 * `replace_element`: recursively replace an element by a desired element within a dictionary
