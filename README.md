@@ -1,6 +1,5 @@
 ## jsonMojo 
-
-[![Downloads](https://static.pepy.tech/personalized-badge/jsonmojo?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/jsonmojo)
+[![Downloads](https://static.pepy.tech/personalized-badge/jsonmojo?period=total&units=international_system&left_color=black&right_color=green&left_text=Downloads)](https://pepy.tech/project/jsonmojo)
 
 A series of utility functions to help with tidy json via python dictionary.
 
